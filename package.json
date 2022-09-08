@@ -21,7 +21,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mammoth": "^1.4.8",
+    "mammoth": "^1.5.1",
     "tmp": "^0.1.0",
     "vasync": "^2.2.0"
   }
